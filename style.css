@@ -417,7 +417,7 @@ align-items: flex-start;
 }
 
 .nav-btn a , .btn-primary, .btn-seceondary , .cta-button :hover {
-    background-color: aqua;
+  
     cursor: pointer;
     transition: 0.3s;
     transform: translateY(-2px);
