@@ -415,3 +415,11 @@ align-items: flex-start;
     color: rgba(250, 250, 250, 1);
     border-top: 1px solid rgba(255, 255, 255, 0.2);
 }
+
+.nav-btn a , .btn-primary, .btn-seceondary , .cta-button :hover {
+    background-color: aqua;
+    cursor: pointer;
+    transition: 0.3s;
+    transform: translateY(-2px);
+}
+   
